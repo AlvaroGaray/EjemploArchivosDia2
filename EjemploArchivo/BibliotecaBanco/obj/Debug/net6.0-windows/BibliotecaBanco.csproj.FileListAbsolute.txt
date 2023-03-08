@@ -1,0 +1,14 @@
+E:\AJGH\EjemploArchivo\BibliotecaBanco\bin\Debug\net6.0-windows\BibliotecaBanco.deps.json
+E:\AJGH\EjemploArchivo\BibliotecaBanco\bin\Debug\net6.0-windows\BibliotecaBanco.dll
+E:\AJGH\EjemploArchivo\BibliotecaBanco\bin\Debug\net6.0-windows\BibliotecaBanco.pdb
+E:\AJGH\EjemploArchivo\BibliotecaBanco\obj\Debug\net6.0-windows\BibliotecaBanco.csproj.AssemblyReference.cache
+E:\AJGH\EjemploArchivo\BibliotecaBanco\obj\Debug\net6.0-windows\BibliotecaBanco.frmBancoUI.resources
+E:\AJGH\EjemploArchivo\BibliotecaBanco\obj\Debug\net6.0-windows\BibliotecaBanco.csproj.GenerateResource.cache
+E:\AJGH\EjemploArchivo\BibliotecaBanco\obj\Debug\net6.0-windows\BibliotecaBanco.GeneratedMSBuildEditorConfig.editorconfig
+E:\AJGH\EjemploArchivo\BibliotecaBanco\obj\Debug\net6.0-windows\BibliotecaBanco.AssemblyInfoInputs.cache
+E:\AJGH\EjemploArchivo\BibliotecaBanco\obj\Debug\net6.0-windows\BibliotecaBanco.AssemblyInfo.cs
+E:\AJGH\EjemploArchivo\BibliotecaBanco\obj\Debug\net6.0-windows\BibliotecaBanco.csproj.CoreCompileInputs.cache
+E:\AJGH\EjemploArchivo\BibliotecaBanco\obj\Debug\net6.0-windows\BibliotecaBanco.dll
+E:\AJGH\EjemploArchivo\BibliotecaBanco\obj\Debug\net6.0-windows\refint\BibliotecaBanco.dll
+E:\AJGH\EjemploArchivo\BibliotecaBanco\obj\Debug\net6.0-windows\BibliotecaBanco.pdb
+E:\AJGH\EjemploArchivo\BibliotecaBanco\obj\Debug\net6.0-windows\ref\BibliotecaBanco.dll
